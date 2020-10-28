@@ -1,1 +1,1 @@
-https://wilcar.github.io/NotesTDCartoHist9.html/
+https://wilcar.github.io/carto-series-stat-hist-XIXe-XXe/
